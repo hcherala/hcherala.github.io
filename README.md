@@ -1,4 +1,4 @@
-👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=460AF7&random=false&width=435&lines=Hello%2C+I'm+Hitesh+Cherala!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=460AF7&random=false&width=435&lines=Hello%2C+I'm+Hitesh+Cherala!)](https://git.io/typing-svg)
 
 👀 I’m interested in... leveraging my extensive IT experience to contribute to impactful open-source projects.
 With over 8 years specializing in data analytics, T-SQL, KQL, Azure Data Factory, SSIS, SSRS, and Power BI,
