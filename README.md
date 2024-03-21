@@ -17,9 +17,6 @@ Integrating Python models with Azure Machine Learning services to deploy scalabl
 **Automating Data Processing Tasks:**
 Utilizing Python scripts to automate the cleansing, transformation, and analysis of large datasets, enhancing efficiency and accuracy.
 
-💞️ I’m looking to collaborate on... projects that can benefit from my growing expertise in Python and predictive analytics. Whether it's developing    scalable data pipelines, 
-enhancing data analytics platformsdata-driven applications, conducting research, or contributing to open-source projects, I'm excited to join forces with others passionate about harnessing the power of data.
-
 💞️ I’m looking to collaborate on... projects that harness the power of data to solve complex problems. 
 Whether it's developing scalable data pipelines, enhancing data analytics platforms, or contributing to projects that benefit from my expertise in Azure and business intelligence tools,
 I'm eager to collaborate with like-minded professionals.
